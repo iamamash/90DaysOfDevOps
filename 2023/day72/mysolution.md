@@ -44,4 +44,4 @@ Hello Learners , you guys are doing really a good job. You will not be there 24\
   >
   > Together, they help you monitor and understand your systems and applications. So, while Prometheus gathers the information, Grafana makes it look good and understandable.
 
-[← Previous Day](../day71/README.md) | [Next Day →](../day73/README.md)
+[← Previous Day](../day71/README.md) | [Next Day →](../day73/mysolution.md)
