@@ -6,8 +6,7 @@ Now, let's do some practical stuff.
 
 Task: ✅
 
-**1. Setup grafana in your local environment on AWS EC2.**
-<br>
+**1. Setup grafana in your local environment on AWS EC2.** <br>
 ![beba8d22329b268131c414e884186ebd78f0f3ca](https://github.com/iamamash/90DaysOfDevOps/assets/42666741/bc84dc3d-ce34-4111-a3a2-063347130a7c)
 
 
