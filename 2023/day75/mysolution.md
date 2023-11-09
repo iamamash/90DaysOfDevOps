@@ -17,6 +17,9 @@ Today, make it little bit more complex but interesting 😍 and let's add one mo
 
 You can use [this video](https://youtu.be/y3SGHbixmJw) for your refernce. But it's always better to find your own way of doing. 😊
 
+![Screenshot (167)](https://github.com/iamamash/90DaysOfDevOps/assets/42666741/2bb251f7-5d05-4477-bb61-631106686c8c)
+
+
 ## Bonus :
 
 - As you have done this amazing task, here is one bonus link.❤️
